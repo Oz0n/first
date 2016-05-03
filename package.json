@@ -1,0 +1,15 @@
+{
+  "name": "ozon",
+  "version": "1.0.0",
+  "description": "first program",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ozon",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-websocket": "^1.5.0"
+  }
+}
